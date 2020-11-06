@@ -1,0 +1,18 @@
+body {
+    color: black;
+    font-size: 1.5rem;
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: rgb(2, 116, 168);
+}
+
+.pr {
+    color: rgb(2, 116, 168);
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
